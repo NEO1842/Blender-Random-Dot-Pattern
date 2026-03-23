@@ -1,6 +1,6 @@
----English---
-
 [![Watch the animation](Random%20Dot%20Pattern/Random%20Dot%20Pattern.png)](https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view)
+
+---English---
 
 # Blender-Random-Dot-Pattern
 
@@ -36,10 +36,9 @@ If you redistribute this file or a modified version of it, please include a link
 This project is licensed under the MIT License.
 
 ---
+[![Watch the animation](Random%20Dot%20Pattern/Random%20Dot%20Pattern.png)](https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view)
 
 ---日本語---
-
-[![Watch the animation](Random%20Dot%20Pattern/Random%20Dot%20Pattern.png)](https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view)
 
 # Blender ランダムドットパターン
 
