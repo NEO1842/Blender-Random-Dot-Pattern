@@ -30,4 +30,4 @@ https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive
 
 https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link
 
-![Preview](Firework.png)
+![Preview](Random%20Dot%20Pattern.png)
