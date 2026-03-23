@@ -26,6 +26,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+# Credit
+
+If you use or redistribute this project, please include a link to the original repository: 
+https://github.com/NEO1842/Blender-Random-Dot-Pattern
 
 ---
 
@@ -47,3 +51,7 @@ Copyright (c) 2026 岡村 剛
 本ソフトウェアは「現状のまま」提供され、明示的か黙示的かを問わず、商品性、特定目的への適合性、非侵害性を含むがこれらに限定されない、いかなる種類の保証もありません。
 いかなる場合においても、著作者または著作権者は、契約、不法行為、その他を問わず、
 本ソフトウェアまたは本ソフトウェアの使用もしくはその他の取引から生じる、またはこれに関連するいかなる請求、損害、その他の責任についても責任を負いません。
+# クレジット
+
+このプロジェクトを使用または再配布する場合は、元のリポジトリへのリンクを記載してください： 
+https://github.com/NEO1842/Blender-Random-Dot-Pattern
