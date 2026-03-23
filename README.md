@@ -2,11 +2,11 @@
 ---English---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the image to watch the animation.
 </p>
 
-<p align="center">
+<div align="center">
+
 <a href="https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view">
-  <img src="Random%20Dot%20Pattern/Random%20Dot%20Pattern.png" width="600">
+<img src="Random%20Dot%20Pattern/Random%20Dot%20Pattern.png" width="600">
 </a>
-</p>
 
 # Blender-Random-Dot-Pattern
 
