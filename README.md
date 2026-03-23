@@ -1,3 +1,5 @@
+---English---
+
 # Blender-Random-Dot-Pattern
 
 Blender using Geometry node and shader nodes, inspired by Ducky 3D.
@@ -33,6 +35,7 @@ This project is licensed under the MIT License.
 
 ---
 
+---日本語---
 
 # Blender ランダムドットパターン
 
