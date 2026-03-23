@@ -1,12 +1,12 @@
 ---English---
 
-This is a Blender scene for creating a fireworks simulation using a particle system. 
+This is a Blender scene for creating a random dot pattern using geometry nodes.
 
 Rendering settings: 
 
 Rendering engine: Eevee, 
 
-Sampling: 64, 
+Sampling rate: 64, 
 
 Denoising: None. 
 
@@ -16,7 +16,7 @@ https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive
 
 ---日本語---
 
-これは、パーティクルシステムを使用して花火のシミュレーションを作成するためのBlenderシーンです。
+これは、ジオメトリノードを使用してランダムドットパターンを作成するためのBlenderシーンです。
 
 レンダリング設定 
 
