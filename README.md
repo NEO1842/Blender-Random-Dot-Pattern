@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view">
+<a href="https://drive.google.com/file/d/1kYZSDUvNIQl1xCZHQai_I2PDXx-7Cg2R/view?usp=drive_link">
 <img src="Random%20Dot%20Pattern/Random%20Dot%20Pattern.png" width="600">
 </a>
 
