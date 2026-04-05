@@ -12,7 +12,7 @@ Denoising: None.
 
 Check out the video! 
 
-https://drive.google.com/file/d/1kYZSDUvNIQl1xCZHQai_I2PDXx-7Cg2R/view?usp=drive_link
+https://drive.google.com/file/d/1wiyZrD7hMMV_BeolaWEUJySk5Lhtx1Lq/view?usp=drivesdk
 
 ---日本語---
 
@@ -28,6 +28,6 @@ https://drive.google.com/file/d/1kYZSDUvNIQl1xCZHQai_I2PDXx-7Cg2R/view?usp=drive
 
 動画をご確認ください！
 
-https://drive.google.com/file/d/1kYZSDUvNIQl1xCZHQai_I2PDXx-7Cg2R/view?usp=drive_link
+https://drive.google.com/file/d/1wiyZrD7hMMV_BeolaWEUJySk5Lhtx1Lq/view?usp=drivesdk
 
 ![Preview](Random%20Dot%20Pattern.png)
