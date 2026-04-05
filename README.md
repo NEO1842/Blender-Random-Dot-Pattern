@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://drive.google.com/file/d/1wiyZrD7hMMV_BeolaWEUJySk5Lhtx1Lq/view?usp=drivesdk">
-<img src="Random%20Dot%20Pattern/Random%20Dot%20Pattern.png" width="600">
+<img src="Blender%20Random%20Dot%20Pattern/Random%20Dot%20Pattern.png" width="600">
 </a>
 
 # Blender-Random-Dot-Pattern
@@ -48,7 +48,7 @@ This project is licensed under the MIT License.
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1wiyZrD7hMMV_BeolaWEUJySk5Lhtx1Lq/view?usp=drivesdk">
-  <img src="Random%20Dot%20Pattern/Random%20Dot%20Pattern.png" width="600">
+<img src="Blender%20Random%20Dot%20Pattern/Random%20Dot%20Pattern.png" width="600">
 </a>
 </p>
 
